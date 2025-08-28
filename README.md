@@ -1,6 +1,6 @@
 # Aspect-Based Sentiment Analysis of Islamophobia in Malaysia
 
-This is my Final Year Project analyzing Islamophobia on social media using Natural Language Processing (NLP) techniques.  
+This project focus on analyzing Islamophobia on social media using Natural Language Processing (NLP) techniques.  
 The project applies **Aspect-Based Sentiment Analysis (ABSA)** with transformer models (DeBERTa, BERTweet) to detect sentiment towards different aspects of Islamophobia, such as religion, politics, race, and social issues.
 
 ---
